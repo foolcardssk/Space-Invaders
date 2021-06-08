@@ -1,2 +1,2 @@
 # Space-Invaders
-My first game after learning some basic pygame.
+My first game after learning some pygame.
