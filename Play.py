@@ -149,3 +149,5 @@ while running:
     collision()
     showScore()
     pygame.display.update() # update the display every time
+
+pygame.quit() # quits pygame process
